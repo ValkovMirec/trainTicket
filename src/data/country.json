@@ -1,0 +1,4625 @@
+[
+  {
+    "staList": {
+      "sta": [
+        { "sn": "" },
+        {
+          "ek": "804",
+          "na": "Ukrajina",
+          "sn": "Ukrajina",
+          "ak": "UA",
+          "ar": "UKR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 102
+        },
+        {
+          "ek": "8",
+          "na": "Albánska republika",
+          "sn": "Albánsko",
+          "ak": "AL",
+          "ar": "ALB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 111
+        },
+        {
+          "ek": "100",
+          "na": "Bulharská republika",
+          "sn": "Bulharsko",
+          "ak": "BG",
+          "ar": "BGR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              }
+            ]
+          },
+          "id": 121
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "348",
+          "na": "Maďarsko",
+          "sn": "Maďarsko",
+          "ak": "HU",
+          "ar": "HUN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 131
+        },
+        {
+          "ek": "616",
+          "na": "Poľská republika",
+          "sn": "Poľsko",
+          "ak": "PL",
+          "ar": "POL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 151
+        },
+        {
+          "ek": "642",
+          "na": "Rumunsko",
+          "sn": "Rumunsko",
+          "ak": "RO",
+          "ar": "ROU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 161
+        },
+        {
+          "ek": "192",
+          "na": "Kubánska republika",
+          "sn": "Kuba",
+          "ak": "CU",
+          "ar": "CUB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 171
+        },
+        {
+          "ek": "496",
+          "na": "Mongolsko",
+          "sn": "Mongolsko",
+          "ak": "MN",
+          "ar": "MNG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 181
+        },
+        {
+          "ek": "203",
+          "na": "Česká republika",
+          "sn": "Česko",
+          "ak": "CZ",
+          "ar": "CZE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 201
+        },
+        {
+          "ek": "703",
+          "na": "Slovenská republika",
+          "sn": "Slovensko",
+          "ak": "SK",
+          "ar": "SVK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 211
+        },
+        {
+          "ek": "704",
+          "na": "Vietnamská socialistická republika",
+          "sn": "Vietnam",
+          "ak": "VN",
+          "ar": "VNM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 241
+        },
+        {
+          "ek": "156",
+          "na": "Čínska ľudová republika",
+          "sn": "Čína",
+          "ak": "CN",
+          "ar": "CHN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 321
+        },
+        {
+          "ek": "408",
+          "na": "Kórejská ľudovodemokratická republika",
+          "sn": "Kórejská ľudovodemokratická republika",
+          "ak": "KP",
+          "ar": "PRK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 331
+        },
+        {
+          "ek": "418",
+          "na": "Laoská ľudovodemokratická republika",
+          "sn": "Laos",
+          "ak": "LA",
+          "ar": "LAO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 341
+        },
+        {
+          "ek": "20",
+          "na": "Andorrské kniežatstvo",
+          "sn": "Andorra",
+          "ak": "AD",
+          "ar": "AND",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 401
+        },
+        {
+          "ek": "56",
+          "na": "Belgické kráľovstvo",
+          "sn": "Belgicko",
+          "ak": "BE",
+          "ar": "BEL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 403
+        },
+        {
+          "ek": "208",
+          "na": "Dánske kráľovstvo",
+          "sn": "Dánsko",
+          "ak": "DK",
+          "ar": "DNK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 405
+        },
+        {
+          "ek": "246",
+          "na": "Fínska republika",
+          "sn": "Fínsko",
+          "ak": "FI",
+          "ar": "FIN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 409
+        },
+        {
+          "ek": "250",
+          "na": "Francúzska republika",
+          "sn": "Francúzsko",
+          "ak": "FR",
+          "ar": "FRA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              }
+            ]
+          },
+          "id": 411
+        },
+        {
+          "ek": "372",
+          "na": "Írsko",
+          "sn": "Írsko",
+          "ak": "IE",
+          "ar": "IRL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 413
+        },
+        {
+          "ek": "352",
+          "na": "Islandská republika",
+          "sn": "Island",
+          "ak": "IS",
+          "ar": "ISL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 415
+        },
+        {
+          "ek": "380",
+          "na": "Talianska republika",
+          "sn": "Taliansko",
+          "ak": "IT",
+          "ar": "ITA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 417
+        },
+        {
+          "ek": "438",
+          "na": "Lichtenštajnské kniežatstvo",
+          "sn": "Lichtenštajnsko",
+          "ak": "LI",
+          "ar": "LIE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              }
+            ]
+          },
+          "id": 419
+        },
+        {
+          "ek": "442",
+          "na": "Luxemburské veľkovojvodstvo",
+          "sn": "Luxembursko",
+          "ak": "LU",
+          "ar": "LUX",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              }
+            ]
+          },
+          "id": 421
+        },
+        {
+          "ek": "470",
+          "na": "Maltská republika",
+          "sn": "Malta",
+          "ak": "MT",
+          "ar": "MLT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 423
+        },
+        {
+          "ek": "492",
+          "na": "Monacké kniežatstvo",
+          "sn": "Monako",
+          "ak": "MC",
+          "ar": "MCO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 425
+        },
+        {
+          "ek": "276",
+          "na": "Nemecká spolková republika",
+          "sn": "Nemecko",
+          "ak": "DE",
+          "ar": "DEU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 427
+        },
+        {
+          "ek": "528",
+          "na": "Holandské kráľovstvo",
+          "sn": "Holandsko",
+          "ak": "NL",
+          "ar": "NLD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 429
+        },
+        {
+          "ek": "578",
+          "na": "Nórske kráľovstvo",
+          "sn": "Nórsko",
+          "ak": "NO",
+          "ar": "NOR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 431
+        },
+        {
+          "ek": "620",
+          "na": "Portugalská republika",
+          "sn": "Portugalsko",
+          "ak": "PT",
+          "ar": "PRT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 433
+        },
+        {
+          "ek": "40",
+          "na": "Rakúska republika",
+          "sn": "Rakúsko",
+          "ak": "AT",
+          "ar": "AUT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 435
+        },
+        {
+          "ek": "300",
+          "na": "Grécka republika",
+          "sn": "Grécko",
+          "ak": "GR",
+          "ar": "GRC",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 437
+        },
+        {
+          "ek": "674",
+          "na": "Sanmarínska republika",
+          "sn": "San Maríno",
+          "ak": "SM",
+          "ar": "SMR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 439
+        },
+        {
+          "ek": "724",
+          "na": "Španielske kráľovstvo",
+          "sn": "Španielsko",
+          "ak": "ES",
+          "ar": "ESP",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 441
+        },
+        {
+          "ek": "752",
+          "na": "Švédske kráľovstvo",
+          "sn": "Švédsko",
+          "ak": "SE",
+          "ar": "SWE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 443
+        },
+        {
+          "ek": "756",
+          "na": "Švajčiarska konfederácia",
+          "sn": "Švajčiarsko",
+          "ak": "CH",
+          "ar": "CHE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 445
+        },
+        {
+          "ek": "336",
+          "na": "Svätá stolica (Vatikánsky mestský štát)",
+          "sn": "Vatikán",
+          "ak": "VA",
+          "ar": "VAT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 447
+        },
+        {
+          "ek": "826",
+          "na": "Spojené kráľovstvo Veľkej Británie a Severného Írska",
+          "sn": "Spojené kráľovstvo",
+          "ak": "GB",
+          "ar": "GBR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 451
+        },
+        {
+          "ek": "376",
+          "na": "Izraelský štát",
+          "sn": "Izrael",
+          "ak": "IL",
+          "ar": "ISR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 461
+        },
+        {
+          "ek": "392",
+          "na": "Japonsko",
+          "sn": "Japonsko",
+          "ak": "JP",
+          "ar": "JPN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 463
+        },
+        {
+          "ek": "710",
+          "na": "Juhoafrická republika",
+          "sn": "Južná Afrika",
+          "ak": "ZA",
+          "ar": "ZAF",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 471
+        },
+        {
+          "ek": "124",
+          "na": "Kanada",
+          "sn": "Kanada",
+          "ak": "CA",
+          "ar": "CAN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 481
+        },
+        {
+          "ek": "840",
+          "na": "Spojené štáty americké",
+          "sn": "Spojené štáty",
+          "ak": "US",
+          "ar": "USA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 483
+        },
+        {
+          "ek": "36",
+          "na": "Austrálsky zväz",
+          "sn": "Austrália",
+          "ak": "AU",
+          "ar": "AUS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 491
+        },
+        {
+          "ek": "554",
+          "na": "Nový Zéland",
+          "sn": "Nový Zéland",
+          "ak": "NZ",
+          "ar": "NZL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 493
+        },
+        {
+          "ek": "234",
+          "na": "Faerské ostrovy",
+          "sn": "Faerské ostrovy",
+          "ak": "FO",
+          "ar": "FRO",
+          "tsuList": {},
+          "id": 581
+        },
+        {
+          "ek": "292",
+          "na": "Gibraltár",
+          "sn": "Gibraltár",
+          "ak": "GI",
+          "ar": "GIB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 591
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "744",
+          "na": "Svalbard a Jan Mayen",
+          "sn": "Svalbard a Jan Mayen",
+          "ak": "SJ",
+          "ar": "SJM",
+          "tsuList": {},
+          "id": 599
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "4",
+          "na": "Afganská islamská republika",
+          "sn": "Afganistan",
+          "ak": "AF",
+          "ar": "AFG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 601
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "48",
+          "na": "Bahrajnské kráľovstvo",
+          "sn": "Bahrajn",
+          "ak": "BH",
+          "ar": "BHR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 603
+        },
+        {
+          "ek": "50",
+          "na": "Bangladéšska ľudová republika",
+          "sn": "Bangladéš",
+          "ak": "BD",
+          "ar": "BGD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 605
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "104",
+          "na": "Mjanmarská zväzová republika",
+          "sn": "Mjanmarsko",
+          "ak": "MM",
+          "ar": "MMR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 607
+        },
+        {
+          "ek": "64",
+          "na": "Bhutánske kráľovstvo",
+          "sn": "Bhután",
+          "ak": "BT",
+          "ar": "BTN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 609
+        },
+        {
+          "ek": "96",
+          "na": "Brunejsko-darussalamský štát",
+          "sn": "Brunej",
+          "ak": "BN",
+          "ar": "BRN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 610
+        },
+        {
+          "ek": "158",
+          "na": "Čínska republika - Taiwan",
+          "sn": "Taiwan",
+          "ak": "TW",
+          "ar": "TWN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 611
+        },
+        {
+          "ek": "608",
+          "na": "Filipínska republika",
+          "sn": "Filipíny",
+          "ak": "PH",
+          "ar": "PHL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 613
+        },
+        {
+          "ek": "356",
+          "na": "Indická republika",
+          "sn": "India",
+          "ak": "IN",
+          "ar": "IND",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 615
+        },
+        {
+          "ek": "360",
+          "na": "Indonézska republika",
+          "sn": "Indonézia",
+          "ak": "ID",
+          "ar": "IDN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 617
+        },
+        {
+          "ek": "368",
+          "na": "Iracká republika",
+          "sn": "Irak",
+          "ak": "IQ",
+          "ar": "IRQ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 619
+        },
+        {
+          "ek": "364",
+          "na": "Iránska islamská republika",
+          "sn": "Irán",
+          "ak": "IR",
+          "ar": "IRN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 621
+        },
+        {
+          "ek": "887",
+          "na": "Jemenská republika",
+          "sn": "Jemen",
+          "ak": "YE",
+          "ar": "YEM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 623
+        },
+        {
+          "ek": "400",
+          "na": "Jordánske hášimovské kráľovstvo",
+          "sn": "Jordánsko",
+          "ak": "JO",
+          "ar": "JOR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 627
+        },
+        {
+          "ek": "634",
+          "na": "Katarský štát",
+          "sn": "Katar",
+          "ak": "QA",
+          "ar": "QAT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 629
+        },
+        {
+          "ek": "410",
+          "na": "Kórejská republika",
+          "sn": "Kórejská republika",
+          "ak": "KR",
+          "ar": "KOR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              }
+            ]
+          },
+          "id": 631
+        },
+        {
+          "ek": "116",
+          "na": "Kambodžské kráľovstvo",
+          "sn": "Kambodža",
+          "ak": "KH",
+          "ar": "KHM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 633
+        },
+        {
+          "ek": "414",
+          "na": "Kuvajtský štát",
+          "sn": "Kuvajt",
+          "ak": "KW",
+          "ar": "KWT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 635
+        },
+        {
+          "ek": "196",
+          "na": "Cyperská republika",
+          "sn": "Cyprus",
+          "ak": "CY",
+          "ar": "CYP",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 637
+        },
+        {
+          "ek": "422",
+          "na": "Libanonská republika",
+          "sn": "Libanon",
+          "ak": "LB",
+          "ar": "LBN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 641
+        },
+        {
+          "ek": "458",
+          "na": "Malajzia",
+          "sn": "Malajzia",
+          "ak": "MY",
+          "ar": "MYS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 643
+        },
+        {
+          "ek": "462",
+          "na": "Maldivská republika",
+          "sn": "Maldivy",
+          "ak": "MV",
+          "ar": "MDV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 645
+        },
+        {
+          "ek": "524",
+          "na": "Nepálska federatívna demokratická republika",
+          "sn": "Nepál",
+          "ak": "NP",
+          "ar": "NPL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 647
+        },
+        {
+          "ek": "512",
+          "na": "Ománsky sultanát",
+          "sn": "Omán",
+          "ak": "OM",
+          "ar": "OMN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 649
+        },
+        {
+          "ek": "586",
+          "na": "Pakistanská islamská republika",
+          "sn": "Pakistan",
+          "ak": "PK",
+          "ar": "PAK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 651
+        },
+        {
+          "ek": "682",
+          "na": "Saudskoarabské kráľovstvo",
+          "sn": "Saudská Arábia",
+          "ak": "SA",
+          "ar": "SAU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 653
+        },
+        {
+          "ek": "702",
+          "na": "Singapurská republika",
+          "sn": "Singapur",
+          "ak": "SG",
+          "ar": "SGP",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 655
+        },
+        {
+          "ek": "144",
+          "na": "Srílanská demokratická socialistická republika",
+          "sn": "Srí Lanka",
+          "ak": "LK",
+          "ar": "LKA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 657
+        },
+        {
+          "ek": "760",
+          "na": "Sýrska arabská republika",
+          "sn": "Sýria",
+          "ak": "SY",
+          "ar": "SYR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 659
+        },
+        {
+          "ek": "764",
+          "na": "Thajské kráľovstvo",
+          "sn": "Thajsko",
+          "ak": "TH",
+          "ar": "THA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 661
+        },
+        {
+          "ek": "792",
+          "na": "Turecká republika",
+          "sn": "Turecko",
+          "ak": "TR",
+          "ar": "TUR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 663
+        },
+        {
+          "ek": "784",
+          "na": "Spojené arabské emiráty",
+          "sn": "Spojené arabské emiráty",
+          "ak": "AE",
+          "ar": "ARE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 667
+        },
+        {
+          "ek": "12",
+          "na": "Alžírska demokratická ľudová republika",
+          "sn": "Alžírsko",
+          "ak": "DZ",
+          "ar": "DZA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 701
+        },
+        {
+          "ek": "24",
+          "na": "Angolská republika",
+          "sn": "Angola",
+          "ak": "AO",
+          "ar": "AGO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 702
+        },
+        {
+          "ek": "72",
+          "na": "Botswanská republika",
+          "sn": "Botswana",
+          "ak": "BW",
+          "ar": "BWA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 703
+        },
+        {
+          "ek": "108",
+          "na": "Burundská republika",
+          "sn": "Burundi",
+          "ak": "BI",
+          "ar": "BDI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 705
+        },
+        {
+          "ek": "148",
+          "na": "Čadská republika",
+          "sn": "Čad",
+          "ak": "TD",
+          "ar": "TCD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 707
+        },
+        {
+          "ek": "204",
+          "na": "Beninská republika",
+          "sn": "Benin",
+          "ak": "BJ",
+          "ar": "BEN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 709
+        },
+        {
+          "ek": "262",
+          "na": "Džibutská republika",
+          "sn": "Džibutsko",
+          "ak": "DJ",
+          "ar": "DJI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 710
+        },
+        {
+          "ek": "818",
+          "na": "Egyptská arabská republika",
+          "sn": "Egypt",
+          "ak": "EG",
+          "ar": "EGY",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 711
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "231",
+          "na": "Etiópska federatívna demokratická republika",
+          "sn": "Etiópia",
+          "ak": "ET",
+          "ar": "ETH",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 713
+        },
+        {
+          "ek": "266",
+          "na": "Gabonská republika",
+          "sn": "Gabon",
+          "ak": "GA",
+          "ar": "GAB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 715
+        },
+        {
+          "ek": "270",
+          "na": "Gambijská republika",
+          "sn": "Gambia",
+          "ak": "GM",
+          "ar": "GMB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 717
+        },
+        {
+          "ek": "288",
+          "na": "Ghanská republika",
+          "sn": "Ghana",
+          "ak": "GH",
+          "ar": "GHA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 719
+        },
+        {
+          "ek": "324",
+          "na": "Guinejská republika",
+          "sn": "Guinea",
+          "ak": "GN",
+          "ar": "GIN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 721
+        },
+        {
+          "ek": "624",
+          "na": "Guinejsko-bissauská republika",
+          "sn": "Guinea-Bissau",
+          "ak": "GW",
+          "ar": "GNB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 722
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "226",
+          "na": "Republika Rovníkovej Guiney",
+          "sn": "Rovníková Guinea",
+          "ak": "GQ",
+          "ar": "GNQ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 723
+        },
+        {
+          "ek": "854",
+          "na": "Burkina Faso",
+          "sn": "Burkina",
+          "ak": "BF",
+          "ar": "BFA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 725
+        },
+        {
+          "ek": "120",
+          "na": "Kamerunská republika",
+          "sn": "Kamerun",
+          "ak": "CM",
+          "ar": "CMR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 727
+        },
+        {
+          "ek": "132",
+          "na": "Kapverdská republika",
+          "sn": "Kapverdy",
+          "ak": "CV",
+          "ar": "CPV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 728
+        },
+        {
+          "ek": "404",
+          "na": "Kenská republika",
+          "sn": "Keňa",
+          "ak": "KE",
+          "ar": "KEN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 729
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "174",
+          "na": "Komorský zväz",
+          "sn": "Komory",
+          "ak": "KM",
+          "ar": "COM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 730
+        },
+        {
+          "ek": "178",
+          "na": "Konžská republika",
+          "sn": "Kongo",
+          "ak": "CG",
+          "ar": "COG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 731
+        },
+        {
+          "ek": "426",
+          "na": "Lesothské kráľovstvo",
+          "sn": "Lesotho",
+          "ak": "LS",
+          "ar": "LSO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 733
+        },
+        {
+          "ek": "430",
+          "na": "Libérijská republika",
+          "sn": "Libéria",
+          "ak": "LR",
+          "ar": "LBR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 735
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "434",
+          "na": "Líbya",
+          "sn": "Líbya",
+          "ak": "LY",
+          "ar": "LBY",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 737
+        },
+        {
+          "ek": "454",
+          "na": "Malawijská republika",
+          "sn": "Malawi",
+          "ak": "MW",
+          "ar": "MWI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 739
+        },
+        {
+          "ek": "450",
+          "na": "Madagaskarská republika",
+          "sn": "Madagaskar",
+          "ak": "MG",
+          "ar": "MDG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 741
+        },
+        {
+          "ek": "466",
+          "na": "Malijská republika",
+          "sn": "Mali",
+          "ak": "ML",
+          "ar": "MLI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 743
+        },
+        {
+          "ek": "504",
+          "na": "Marocké kráľovstvo",
+          "sn": "Maroko",
+          "ak": "MA",
+          "ar": "MAR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 745
+        },
+        {
+          "ek": "478",
+          "na": "Mauritánska islamská republika",
+          "sn": "Mauritánia",
+          "ak": "MR",
+          "ar": "MRT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 747
+        },
+        {
+          "ek": "480",
+          "na": "Maurícijská republika",
+          "sn": "Maurícius",
+          "ak": "MU",
+          "ar": "MUS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 749
+        },
+        {
+          "ek": "508",
+          "na": "Mozambická republika",
+          "sn": "Mozambik",
+          "ak": "MZ",
+          "ar": "MOZ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 751
+        },
+        {
+          "ek": "562",
+          "na": "Nigerská republika",
+          "sn": "Niger",
+          "ak": "NE",
+          "ar": "NER",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 753
+        },
+        {
+          "ek": "566",
+          "na": "Nigérijská federatívna republika",
+          "sn": "Nigéria",
+          "ak": "NG",
+          "ar": "NGA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 755
+        },
+        {
+          "ek": "384",
+          "na": "Republika Pobrežia Slonoviny",
+          "sn": "Pobrežie Slonoviny",
+          "ak": "CI",
+          "ar": "CIV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 757
+        },
+        {
+          "ek": "716",
+          "na": "Zimbabwianska republika",
+          "sn": "Zimbabwe",
+          "ak": "ZW",
+          "ar": "ZWE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 759
+        },
+        {
+          "ek": "646",
+          "na": "Rwandská republika",
+          "sn": "Rwanda",
+          "ak": "RW",
+          "ar": "RWA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 761
+        },
+        {
+          "ek": "686",
+          "na": "Senegalská republika",
+          "sn": "Senegal",
+          "ak": "SN",
+          "ar": "SEN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 763
+        },
+        {
+          "ek": "690",
+          "na": "Seychelská republika",
+          "sn": "Seychely",
+          "ak": "SC",
+          "ar": "SYC",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 764
+        },
+        {
+          "ek": "694",
+          "na": "Sierraleonská republika",
+          "sn": "Sierra Leone",
+          "ak": "SL",
+          "ar": "SLE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 765
+        },
+        {
+          "fr": {
+            "year": 2014,
+            "month": 4,
+            "day": 30,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "706",
+          "na": "Somálska federatívna republika",
+          "sn": "Somálsko",
+          "ak": "SO",
+          "ar": "SOM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 767
+        },
+        {
+          "ek": "140",
+          "na": "Stredoafrická republika",
+          "sn": "Stredoafrická republika",
+          "ak": "CF",
+          "ar": "CAF",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 769
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "729",
+          "na": "Sudánska republika",
+          "sn": "Sudán",
+          "ak": "SD",
+          "ar": "SDN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 771
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "678",
+          "na": "Demokratická republika Svätého Tomáša a Princovho ostrova",
+          "sn": "Svätý Tomáš a Princov ostrov",
+          "ak": "ST",
+          "ar": "STP",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 772
+        },
+        {
+          "fr": {
+            "year": 2020,
+            "month": 1,
+            "day": 7,
+            "hour": 23,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "748",
+          "na": "Eswatinské kráľovstvo",
+          "sn": "Eswatini",
+          "ak": "SZ",
+          "ar": "SWZ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 773
+        },
+        {
+          "ek": "834",
+          "na": "Tanzánijská zjednotená republika",
+          "sn": "Tanzánia",
+          "ak": "TZ",
+          "ar": "TZA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 775
+        },
+        {
+          "ek": "768",
+          "na": "Togská republika",
+          "sn": "Togo",
+          "ak": "TG",
+          "ar": "TGO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 777
+        },
+        {
+          "ek": "788",
+          "na": "Tuniská republika",
+          "sn": "Tunisko",
+          "ak": "TN",
+          "ar": "TUN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 779
+        },
+        {
+          "ek": "800",
+          "na": "Ugandská republika",
+          "sn": "Uganda",
+          "ak": "UG",
+          "ar": "UGA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 781
+        },
+        {
+          "ek": "894",
+          "na": "Zambijská republika",
+          "sn": "Zambia",
+          "ak": "ZM",
+          "ar": "ZMB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 785
+        },
+        {
+          "ek": "732",
+          "na": "Západná Sahara",
+          "sn": "Západná Sahara",
+          "ak": "EH",
+          "ar": "ESH",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 786
+        },
+        {
+          "ek": "516",
+          "na": "Namíbijská republika",
+          "sn": "Namíbia",
+          "ak": "NA",
+          "ar": "NAM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 789
+        },
+        {
+          "ek": "28",
+          "na": "Antigua a Barbuda",
+          "sn": "Antigua a Barbuda",
+          "ak": "AG",
+          "ar": "ATG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 800
+        },
+        {
+          "ek": "32",
+          "na": "Argentínska republika",
+          "sn": "Argentína",
+          "ak": "AR",
+          "ar": "ARG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 801
+        },
+        {
+          "ek": "44",
+          "na": "Bahamské spoločenstvo",
+          "sn": "Bahamy",
+          "ak": "BS",
+          "ar": "BHS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 802
+        },
+        {
+          "ek": "52",
+          "na": "Barbados",
+          "sn": "Barbados",
+          "ak": "BB",
+          "ar": "BRB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 803
+        },
+        {
+          "ek": "84",
+          "na": "Belize",
+          "sn": "Belize",
+          "ak": "BZ",
+          "ar": "BLZ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 804
+        },
+        {
+          "ek": "68",
+          "na": "Bolívijský mnohonárodný štát",
+          "sn": "Bolívia",
+          "ak": "BO",
+          "ar": "BOL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 805
+        },
+        {
+          "ek": "76",
+          "na": "Brazílska federatívna republika",
+          "sn": "Brazília",
+          "ak": "BR",
+          "ar": "BRA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 807
+        },
+        {
+          "ek": "212",
+          "na": "Dominické spoločenstvo",
+          "sn": "Dominika",
+          "ak": "DM",
+          "ar": "DMA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 808
+        },
+        {
+          "ek": "214",
+          "na": "Dominikánska republika",
+          "sn": "Dominikánska republika",
+          "ak": "DO",
+          "ar": "DOM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 809
+        },
+        {
+          "ek": "218",
+          "na": "Ekvádorská republika",
+          "sn": "Ekvádor",
+          "ak": "EC",
+          "ar": "ECU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 811
+        },
+        {
+          "ek": "308",
+          "na": "Grenada",
+          "sn": "Grenada",
+          "ak": "GD",
+          "ar": "GRD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 813
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "670",
+          "na": "Svätý Vincent a Grenadíny",
+          "sn": "Svätý Vincent a Grenadíny",
+          "ak": "VC",
+          "ar": "VCT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 814
+        },
+        {
+          "ek": "320",
+          "na": "Guatemalská republika",
+          "sn": "Guatemala",
+          "ak": "GT",
+          "ar": "GTM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 815
+        },
+        {
+          "ek": "328",
+          "na": "Guyanská kooperatívna republika",
+          "sn": "Guyana",
+          "ak": "GY",
+          "ar": "GUY",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 817
+        },
+        {
+          "ek": "332",
+          "na": "Haitská republika",
+          "sn": "Haiti",
+          "ak": "HT",
+          "ar": "HTI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 819
+        },
+        {
+          "ek": "340",
+          "na": "Honduraská republika",
+          "sn": "Honduras",
+          "ak": "HN",
+          "ar": "HND",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 821
+        },
+        {
+          "ek": "152",
+          "na": "Čilská republika",
+          "sn": "Čile",
+          "ak": "CL",
+          "ar": "CHL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 823
+        },
+        {
+          "ek": "388",
+          "na": "Jamajka",
+          "sn": "Jamajka",
+          "ak": "JM",
+          "ar": "JAM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 825
+        },
+        {
+          "ek": "170",
+          "na": "Kolumbijská republika",
+          "sn": "Kolumbia",
+          "ak": "CO",
+          "ar": "COL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 827
+        },
+        {
+          "ek": "188",
+          "na": "Kostarická republika",
+          "sn": "Kostarika",
+          "ak": "CR",
+          "ar": "CRI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 829
+        },
+        {
+          "ek": "484",
+          "na": "Spojené štáty mexické",
+          "sn": "Mexiko",
+          "ak": "MX",
+          "ar": "MEX",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Členské štáty organizácie pre ekonomiku, spoluprácu a rozvoj",
+                "id": 3
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 831
+        },
+        {
+          "ek": "558",
+          "na": "Nikaragujská republika",
+          "sn": "Nikaragua",
+          "ak": "NI",
+          "ar": "NIC",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 833
+        },
+        {
+          "ek": "591",
+          "na": "Panamská republika",
+          "sn": "Panama",
+          "ak": "PA",
+          "ar": "PAN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 835
+        },
+        {
+          "ek": "600",
+          "na": "Paraguajská republika",
+          "sn": "Paraguaj",
+          "ak": "PY",
+          "ar": "PRY",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 837
+        },
+        {
+          "ek": "604",
+          "na": "Peruánska republika",
+          "sn": "Peru",
+          "ak": "PE",
+          "ar": "PER",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 839
+        },
+        {
+          "ek": "662",
+          "na": "Svätá Lucia",
+          "sn": "Svätá Lucia",
+          "ak": "LC",
+          "ar": "LCA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 840
+        },
+        {
+          "ek": "222",
+          "na": "Salvádorská republika",
+          "sn": "Salvádor",
+          "ak": "SV",
+          "ar": "SLV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 841
+        },
+        {
+          "ek": "740",
+          "na": "Surinamská republika",
+          "sn": "Surinam",
+          "ak": "SR",
+          "ar": "SUR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 842
+        },
+        {
+          "ek": "780",
+          "na": "Republika Trinidadu a Tobaga",
+          "sn": "Trinidad a Tobago",
+          "ak": "TT",
+          "ar": "TTO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 843
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "659",
+          "na": "Federácia Svätého Krištofa a Nevisa",
+          "sn": "Svätý Krištof a Nevis",
+          "ak": "KN",
+          "ar": "KNA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 844
+        },
+        {
+          "ek": "858",
+          "na": "Uruguajská východná republika",
+          "sn": "Uruguaj",
+          "ak": "UY",
+          "ar": "URY",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 845
+        },
+        {
+          "ek": "862",
+          "na": "Venezuelská bolívarovská republika",
+          "sn": "Venezuela",
+          "ak": "VE",
+          "ar": "VEN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 847
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "242",
+          "na": "Fidžijská republika",
+          "sn": "Fidži",
+          "ak": "FJ",
+          "ar": "FJI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 911
+        },
+        {
+          "ek": "296",
+          "na": "Kiribatská republika",
+          "sn": "Kiribati",
+          "ak": "KI",
+          "ar": "KIR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 915
+        },
+        {
+          "ek": "520",
+          "na": "Nauruská republika",
+          "sn": "Nauru",
+          "ak": "NR",
+          "ar": "NRU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 921
+        },
+        {
+          "ek": "90",
+          "na": "Šalamúnove ostrovy",
+          "sn": "Šalamúnove ostrovy",
+          "ak": "SB",
+          "ar": "SLB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 925
+        },
+        {
+          "ek": "882",
+          "na": "Samojský nezávislý štát",
+          "sn": "Samoa",
+          "ak": "WS",
+          "ar": "WSM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 931
+        },
+        {
+          "ek": "776",
+          "na": "Tongské kráľovstvo",
+          "sn": "Tonga",
+          "ak": "TO",
+          "ar": "TON",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 941
+        },
+        {
+          "ek": "798",
+          "na": "Tuvalu",
+          "sn": "Tuvalu",
+          "ak": "TV",
+          "ar": "TUV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 943
+        },
+        {
+          "fr": {
+            "year": 2014,
+            "month": 4,
+            "day": 30,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "598",
+          "na": "Papua Nová Guinea",
+          "sn": "Papua Nová Guinea",
+          "ak": "PG",
+          "ar": "PNG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 951
+        },
+        {
+          "ek": "10",
+          "na": "Antarktída",
+          "sn": "Antarktída",
+          "ak": "AQ",
+          "ar": "ATA",
+          "tsuList": {},
+          "id": 961
+        },
+        {
+          "ek": "548",
+          "na": "Vanuatská republika",
+          "sn": "Vanuatu",
+          "ak": "VU",
+          "ar": "VUT",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 992
+        },
+        {
+          "ek": "344",
+          "na": "Hongkong",
+          "sn": "Hongkong",
+          "ak": "HK",
+          "ar": "HKG",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 6912
+        },
+        {
+          "ek": "446",
+          "na": "Macao",
+          "sn": "Macao",
+          "ak": "MO",
+          "ar": "MAC",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 6913
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "654",
+          "na": "Svätá Helena, Ascension a Tristan da Cunha",
+          "sn": "Svätá Helena, Ascension a Tristan da Cunha",
+          "ak": "SH",
+          "ar": "SHN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 7912
+        },
+        {
+          "ek": "86",
+          "na": "Britské indickooceánske územie",
+          "sn": "Britské indickooceánske územie",
+          "ak": "IO",
+          "ar": "IOT",
+          "tsuList": {},
+          "id": 7913
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "638",
+          "na": "Réunion",
+          "sn": "Réunion",
+          "ak": "RE",
+          "ar": "REU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 7934
+        },
+        {
+          "ek": "136",
+          "na": "Kajmanie ostrovy",
+          "sn": "Kajmanie ostrovy",
+          "ak": "KY",
+          "ar": "CYM",
+          "tsuList": {},
+          "id": 8911
+        },
+        {
+          "ek": "660",
+          "na": "Anguilla",
+          "sn": "Anguilla",
+          "ak": "AI",
+          "ar": "AIA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 8913
+        },
+        {
+          "ek": "304",
+          "na": "Grónsko",
+          "sn": "Grónsko",
+          "ak": "GL",
+          "ar": "GRL",
+          "tsuList": {},
+          "id": 8914
+        },
+        {
+          "ek": "92",
+          "na": "Britské Panenské ostrovy",
+          "sn": "Britské Panenské ostrovy",
+          "ak": "VG",
+          "ar": "VGB",
+          "tsuList": {},
+          "id": 8915
+        },
+        {
+          "ek": "238",
+          "na": "Falklandské ostrovy",
+          "sn": "Falklandy",
+          "ak": "FK",
+          "ar": "FLK",
+          "tsuList": {},
+          "id": 8918
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "312",
+          "na": "Guadeloupe",
+          "sn": "Guadeloupe",
+          "ak": "GP",
+          "ar": "GLP",
+          "tsuList": {},
+          "id": 8931
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "254",
+          "na": "Francúzska Guyana",
+          "sn": "Francúzska Guyana",
+          "ak": "GF",
+          "ar": "GUF",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 8932
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "474",
+          "na": "Martinik",
+          "sn": "Martinik",
+          "ak": "MQ",
+          "ar": "MTQ",
+          "tsuList": {},
+          "id": 8933
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "666",
+          "na": "Saint Pierre a Miquelon",
+          "sn": "Saint Pierre a Miquelon",
+          "ak": "PM",
+          "ar": "SPM",
+          "tsuList": {},
+          "id": 8934
+        },
+        {
+          "ek": "850",
+          "na": "Panenské ostrovy Spojených štátov",
+          "sn": "Americké panenské ostrovy",
+          "ak": "VI",
+          "ar": "VIR",
+          "tsuList": {},
+          "id": 8963
+        },
+        {
+          "ek": "630",
+          "na": "Portorické spoločenstvo",
+          "sn": "Portoriko",
+          "ak": "PR",
+          "ar": "PRI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 8964
+        },
+        {
+          "ek": "31",
+          "na": "Azerbajdžanská republika",
+          "sn": "Azerbajdžan",
+          "ak": "AZ",
+          "ar": "AZE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9001
+        },
+        {
+          "ek": "51",
+          "na": "Arménska republika",
+          "sn": "Arménsko",
+          "ak": "AM",
+          "ar": "ARM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9002
+        },
+        {
+          "ek": "60",
+          "na": "Bermudy",
+          "sn": "Bermudy",
+          "ak": "BM",
+          "ar": "BMU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9003
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "70",
+          "na": "Bosna a Hercegovina",
+          "sn": "Bosna a Hercegovina",
+          "ak": "BA",
+          "ar": "BIH",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9004
+        },
+        {
+          "ek": "112",
+          "na": "Bieloruská republika",
+          "sn": "Bielorusko",
+          "ak": "BY",
+          "ar": "BLR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9005
+        },
+        {
+          "ek": "191",
+          "na": "Chorvátska republika",
+          "sn": "Chorvátsko",
+          "ak": "HR",
+          "ar": "HRV",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              }
+            ]
+          },
+          "id": 9008
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "268",
+          "na": "Gruzínsko",
+          "sn": "Gruzínsko",
+          "ak": "GE",
+          "ar": "GEO",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9009
+        },
+        {
+          "ek": "398",
+          "na": "Kazašská republika",
+          "sn": "Kazachstan",
+          "ak": "KZ",
+          "ar": "KAZ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9010
+        },
+        {
+          "ek": "417",
+          "na": "Kirgizská republika",
+          "sn": "Kirgizsko",
+          "ak": "KG",
+          "ar": "KGZ",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9011
+        },
+        {
+          "ek": "428",
+          "na": "Lotyšská republika",
+          "sn": "Lotyšsko",
+          "ak": "LV",
+          "ar": "LVA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              }
+            ]
+          },
+          "id": 9012
+        },
+        {
+          "ek": "498",
+          "na": "Moldavská republika",
+          "sn": "Moldavsko",
+          "ak": "MD",
+          "ar": "MDA",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9013
+        },
+        {
+          "ek": "500",
+          "na": "Montserrat",
+          "sn": "Montserrat",
+          "ak": "MS",
+          "ar": "MSR",
+          "tsuList": {},
+          "id": 9014
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "570",
+          "na": "Niue",
+          "sn": "Niue",
+          "ak": "NU",
+          "ar": "NIU",
+          "tsuList": {},
+          "id": 9015
+        },
+        {
+          "ek": "583",
+          "na": "Mikronézske federatívne štáty",
+          "sn": "Mikronézia",
+          "ak": "FM",
+          "ar": "FSM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9016
+        },
+        {
+          "ek": "796",
+          "na": "Ostrovy Turks a Caicos",
+          "sn": "Turks a Caicos",
+          "ak": "TC",
+          "ar": "TCA",
+          "tsuList": {},
+          "id": 9017
+        },
+        {
+          "ek": "860",
+          "na": "Uzbecká republika",
+          "sn": "Uzbekistan",
+          "ak": "UZ",
+          "ar": "UZB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9018
+        },
+        {
+          "ek": "233",
+          "na": "Estónska republika",
+          "sn": "Estónsko",
+          "ak": "EE",
+          "ar": "EST",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              }
+            ]
+          },
+          "id": 9019
+        },
+        {
+          "ek": "440",
+          "na": "Litovská republika",
+          "sn": "Litva",
+          "ak": "LT",
+          "ar": "LTU",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9020
+        },
+        {
+          "ek": "584",
+          "na": "Republika Marshallových ostrovov",
+          "sn": "Marshallove ostrovy",
+          "ak": "MH",
+          "ar": "MHL",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9021
+        },
+        {
+          "ek": "585",
+          "na": "Palauská republika",
+          "sn": "Palau",
+          "ak": "PW",
+          "ar": "PLW",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9022
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "626",
+          "na": "Východotimorská demokratická republika",
+          "sn": "Východný Timor",
+          "ak": "TL",
+          "ar": "TLS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9023
+        },
+        {
+          "ek": "705",
+          "na": "Slovinská republika",
+          "sn": "Slovinsko",
+          "ak": "SI",
+          "ar": "SVN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štát Európskej únie",
+                "id": 1
+              },
+              {
+                "na": "Schengenský priestor",
+                "id": 4
+              },
+              {
+                "na": "Štát Európskeho hospodárskeho priestoru",
+                "id": 2
+              },
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9024
+        },
+        {
+          "ek": "762",
+          "na": "Tadžická republika",
+          "sn": "Tadžikistan",
+          "ak": "TJ",
+          "ar": "TJK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9025
+        },
+        {
+          "ek": "795",
+          "na": "Turkménsko",
+          "sn": "Turkménsko",
+          "ak": "TM",
+          "ar": "TKM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9026
+        },
+        {
+          "fr": {
+            "year": 2020,
+            "month": 1,
+            "day": 6,
+            "hour": 23,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "807",
+          "na": "Severomacedónska republika",
+          "sn": "Severné Macedónsko",
+          "ak": "MK",
+          "ar": "MKD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9027
+        },
+        {
+          "ek": "643",
+          "na": "Ruská federácia",
+          "sn": "Rusko",
+          "ak": "RU",
+          "ar": "RUS",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9028
+        },
+        {
+          "ek": "533",
+          "na": "Aruba",
+          "sn": "Aruba",
+          "ak": "AW",
+          "ar": "ABW",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 9029
+        },
+        {
+          "fr": {
+            "year": 2014,
+            "month": 4,
+            "day": 30,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "275",
+          "na": "Palestínsky štát",
+          "sn": "Palestína",
+          "ak": "PS",
+          "ar": "PSE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9030
+        },
+        {
+          "ek": "175",
+          "na": "Mayotte",
+          "sn": "Mayotte",
+          "ak": "YT",
+          "ar": "MYT",
+          "tsuList": {},
+          "id": 9031
+        },
+        {
+          "ek": "232",
+          "na": "Eritrejský štát",
+          "sn": "Eritrea",
+          "ak": "ER",
+          "ar": "ERI",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9032
+        },
+        {
+          "ek": "239",
+          "na": "Južná Georgia a Južné Sandwichove ostrovy",
+          "sn": "Južná Georgia a Južné Sandwichove ostrovy",
+          "ak": "GS",
+          "ar": "SGS",
+          "tsuList": {},
+          "id": 9033
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "334",
+          "na": "Teritórium Heardovho ostrova a Macdonaldových ostrovov",
+          "sn": "Heardov ostrov a Macdonaldove ostrovy",
+          "ak": "HM",
+          "ar": "HMD",
+          "tsuList": {},
+          "id": 9611
+        },
+        {
+          "ek": "260",
+          "na": "Francúzske južné a antarktické územia",
+          "sn": "Francúzske južné územia",
+          "ak": "TF",
+          "ar": "ATF",
+          "tsuList": {},
+          "id": 9613
+        },
+        {
+          "ek": "74",
+          "na": "Bouvetov ostrov",
+          "sn": "Bouvetov ostrov",
+          "ak": "BV",
+          "ar": "BVT",
+          "tsuList": {},
+          "id": 9614
+        },
+        {
+          "ek": "612",
+          "na": "Pitcairnove ostrovy",
+          "sn": "Pitcairnove ostrovy",
+          "ak": "PN",
+          "ar": "PCN",
+          "tsuList": {},
+          "id": 9912
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "258",
+          "na": "Francúzska Polynézia",
+          "sn": "Francúzska Polynézia",
+          "ak": "PF",
+          "ar": "PYF",
+          "tsuList": {},
+          "id": 9931
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "540",
+          "na": "Nová Kaledónia",
+          "sn": "Nová Kaledónia",
+          "ak": "NC",
+          "ar": "NCL",
+          "tsuList": {},
+          "id": 9932
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "876",
+          "na": "Wallis a Futuna",
+          "sn": "Wallis a Futuna",
+          "ak": "WF",
+          "ar": "WLF",
+          "tsuList": {},
+          "id": 9933
+        },
+        {
+          "ek": "16",
+          "na": "Teritórium Americkej Samoy",
+          "sn": "Americká Samoa",
+          "ak": "AS",
+          "ar": "ASM",
+          "tsuList": {},
+          "id": 9961
+        },
+        {
+          "ek": "316",
+          "na": "Guamské teritórium",
+          "sn": "Guam",
+          "ak": "GU",
+          "ar": "GUM",
+          "tsuList": {},
+          "id": 9962
+        },
+        {
+          "ek": "580",
+          "na": "Spoločenstvo ostrovov Severné Mariány",
+          "sn": "Severné Mariány",
+          "ak": "MP",
+          "ar": "MNP",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9963
+        },
+        {
+          "ek": "581",
+          "na": "Menšie odľahlé ostrovy Spojených štátov",
+          "sn": "Menšie odľahlé ostrovy USA",
+          "ak": "UM",
+          "ar": "UMI",
+          "tsuList": {},
+          "id": 9964
+        },
+        {
+          "ek": "574",
+          "na": "Teritórium ostrova Norfolk",
+          "sn": "Norfolk",
+          "ak": "NF",
+          "ar": "NFK",
+          "tsuList": {},
+          "id": 9971
+        },
+        {
+          "ek": "162",
+          "na": "Teritórium Vianočného ostrova",
+          "sn": "Vianočný ostrov",
+          "ak": "CX",
+          "ar": "CXR",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9974
+        },
+        {
+          "ek": "166",
+          "na": "Teritórium Kokosových ostrovov",
+          "sn": "Kokosové ostrovy",
+          "ak": "CC",
+          "ar": "CCK",
+          "tsuList": {},
+          "id": 9975
+        },
+        {
+          "ek": "772",
+          "na": "Tokelauské ostrovy",
+          "sn": "Tokelau",
+          "ak": "TK",
+          "ar": "TKL",
+          "tsuList": {},
+          "id": 9982
+        },
+        {
+          "ek": "184",
+          "na": "Cookove ostrovy",
+          "sn": "Cookove ostrovy",
+          "ak": "CK",
+          "ar": "COK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9983
+        },
+        {
+          "fr": {
+            "year": 2014,
+            "month": 4,
+            "day": 30,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "180",
+          "na": "Konžská demokratická republika",
+          "sn": "Konžská demokratická republika",
+          "ak": "CD",
+          "ar": "COD",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9984
+        },
+        {
+          "ek": "248",
+          "na": "Alandy",
+          "sn": "Alandy",
+          "ak": "AX",
+          "ar": "ALA",
+          "tsuList": {},
+          "id": 9986
+        },
+        {
+          "ek": "831",
+          "na": "Guernsey",
+          "sn": "Guernsey",
+          "ak": "GG",
+          "ar": "GGY",
+          "tsuList": {},
+          "id": 9987
+        },
+        {
+          "fr": {
+            "year": 2007,
+            "month": 7,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "832",
+          "na": "Jersey",
+          "sn": "Jersey",
+          "ak": "JE",
+          "ar": "JEY",
+          "tsuList": {},
+          "id": 9988
+        },
+        {
+          "fr": {
+            "year": 2014,
+            "month": 4,
+            "day": 30,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "833",
+          "na": "Ostrov Man",
+          "sn": "Man",
+          "ak": "IM",
+          "ar": "IMN",
+          "tsuList": {},
+          "id": 9989
+        },
+        {
+          "ek": "688",
+          "na": "Srbská republika",
+          "sn": "Srbsko",
+          "ak": "RS",
+          "ar": "SRB",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9990
+        },
+        {
+          "ek": "499",
+          "na": "Čierna Hora",
+          "sn": "Čierna Hora",
+          "ak": "ME",
+          "ar": "MNE",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9991
+        },
+        {
+          "ek": "896",
+          "na": "Oblasti inde nešpecifikované",
+          "sn": "Oblasti inde nešpecifikované",
+          "ak": "YY",
+          "ar": "YYY",
+          "tsuList": {},
+          "id": 9997
+        },
+        {
+          "ek": "898",
+          "na": "Nešpecifikované",
+          "sn": "NEŠPECIFIKOVANÉ",
+          "ak": "XX",
+          "ar": "XXX",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 9998
+        },
+        {
+          "ek": "1",
+          "na": "Oblasti inde nešpecifikované -  Kosovo",
+          "sn": "Oblasti inde nešpecifikované - Kosovo",
+          "ak": "XK",
+          "ar": "XXK",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 1000000
+        },
+        {
+          "ek": "652",
+          "na": "Svätý Bartolomej",
+          "sn": "Svätý Bartolomej",
+          "ak": "BL",
+          "ar": "BLM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 1000001
+        },
+        {
+          "fr": {
+            "year": 2012,
+            "month": 3,
+            "day": 31,
+            "hour": 22,
+            "minute": 0,
+            "second": 0,
+            "millisecond": -2147483648,
+            "timezone": 0
+          },
+          "ek": "663",
+          "na": "Svätý Martin",
+          "sn": "Svätý Martin (francúzska časť)",
+          "ak": "MF",
+          "ar": "MAF",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 1000002
+        },
+        {
+          "ek": "531",
+          "na": "Curaçao",
+          "sn": "Curaçao",
+          "ak": "CW",
+          "ar": "CUW",
+          "tsuList": {},
+          "id": 1000003
+        },
+        {
+          "ek": "534",
+          "na": "Svätý Martin (holandská časť)",
+          "sn": "Svätý Martin (holandská časť)",
+          "ak": "SX",
+          "ar": "SXM",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s bezvízovou povinnosťou",
+                "id": 6
+              }
+            ]
+          },
+          "id": 1000004
+        },
+        {
+          "ek": "535",
+          "na": "Bonaire, Svätý Eustach a Saba",
+          "sn": "Bonaire, Svätý Eustach a Saba",
+          "ak": "BQ",
+          "ar": "BES",
+          "tsuList": {},
+          "id": 1000005
+        },
+        {
+          "ek": "728",
+          "na": "Juhosudánska republika",
+          "sn": "Južný Sudán",
+          "ak": "SS",
+          "ar": "SSD",
+          "tsuList": {},
+          "id": 1000006
+        },
+        {
+          "ek": "998",
+          "na": "Nešpecifikované v súvislosti s osobami bez štátnej príslušnosti",
+          "sn": "Osoba bez štátnej príslušnosti",
+          "ak": "XX",
+          "ar": "NNN",
+          "tsuList": {
+            "tsu": [
+              {
+                "na": "Štáty s vízovou povinnosťou",
+                "id": 5
+              }
+            ]
+          },
+          "id": 1000007
+        }
+      ]
+    }
+  }
+]

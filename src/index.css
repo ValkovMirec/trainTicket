@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./img/img1.jpg);
+  background-position: center;
+  height: 50em;
+  display: flex;
+  justify-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.app-container {
+  margin: 2em auto;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+
+  align-content: center;
+  width: 33em;
+  padding: 1em;
+  border: 1px solid white;
+  border-radius: 1em;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+label {
+  margin-right: 0.1em;
+}
+
+.travel-cont {
+  display: flex;
+  flex-direction: row;
+  height: 21.8333px;
+}
+
+.date-time-type-cont {
+  display: flex;
+  flex-direction: row;
+  height: 21.8333px;
+}
+
+.ticket {
+  border-top: 1px solid black;
+}
+
+.ticket h3 {
+  text-align: center;
+}
+
+.ticket-guts {
+  margin-left: 35%;
+  margin-bottom: 1em;
+  margin-top: -5%;
+}
+
+.ticket-row {
+  display: flex;
+  flex-direction: row;
+  height: 30px;
+}
+
+.ticket-properties {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+}
+
+.checkbox-cont {
+  margin-left: 10px;
+}
+
+.date-time-type-cont,
+.travel-cont,
+.checkbox-cont,
+.radio-group,
+.country-selector {
+  margin-bottom: 1em;
+}
+
+.country-selector label {
+  margin-right: 1em;
+}
+
+button {
+  margin-left: 1em;
+  width: 10.3em;
+}
+
+.error {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+@media (max-width: 650px) {
+  .travel-cont {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .date-time-type-cont {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .date-time-type-cont,
+  .travel-cont,
+  .checkbox-cont,
+  .radio-group,
+  .country-selector {
+    margin-bottom: 6em;
+  }
+
+  .country-selector-label {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .country-selector select {
+    width: 21.7em;
+  }
+
+  .app-container {
+    width: 20em;
+    font-size: 0.9em;
+  }
+
+  .checkbox-cont {
+    text-align: center;
+    margin-top: 1em;
+  }
+
+  .radio-group {
+    display: flex;
+    justify-content: center;
+  }
+
+  button {
+    position: relative;
+    left: 23%;
+    margin-top: 2em;
+  }
+
+  .ticket-form {
+    height: 320px;
+    margin-bottom: 2em;
+  }
+}
